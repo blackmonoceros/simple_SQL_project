@@ -50,6 +50,8 @@ respectively. This means that each transaction is associated with one
 user and one product.
 
 Views:
+
+
 13. View number_of_offers_per_product: This view returns the number of offers for
 each product.
 
