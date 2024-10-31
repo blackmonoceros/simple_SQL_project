@@ -1,7 +1,11 @@
 # simple_SQL_project
 
 “Online auction database”
-Project description: The project concerns the creation of a database for an online auction system.
+
+
+Project description: 
+
+The project concerns the creation of a database for an online auction system.
 The database will store information about users, products, offers,
 categories, ratings and transactions.
 Tables:
